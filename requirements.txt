@@ -7,3 +7,4 @@ openpyxl
 prophet
 scikit-learn
 statsmodels
+plotly
