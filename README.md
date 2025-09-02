@@ -1,2 +1,4 @@
-# Approximator_TheNumbersAndNationsProject
-Repo for Approximator on Python. This repo is only intended for the app's deployment in the context of the Numbers &amp; Nations project. Unauthorized changes are not allowed.
+Copyright © 2025 José Miguel Santos Roldán, Numbers & Nations Cortporation.
+
+All rights reserved. This code is proprietary and confidential.
+Unauthorized copying, modification, use, or distribution is strictly prohibited.
